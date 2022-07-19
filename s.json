@@ -6,47 +6,35 @@
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Lo vívido vivido",
+      "age" : "Editorial Mirahadas",
+      "secretIdentity" : "2015",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "25"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "MEl arte de desarmar",
+      "age" : "Impedimenta",
+      "secretIdentity" : "2005",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "44"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Los poemas que nunca fueron canción",
+      "age" : "Impedimenta",
+      "secretIdentity" : "2019",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "12"
       ]
     },
     {
-      "name" : " Flame",
-      "age" : 10000,
-      "secretIdentity" : "Unknown",
+      "name" : "En busca de la felicidad",
+      "age" : "Impedimenta",
+      "secretIdentity" : "2010",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "4"
       ]
     }
   ]
